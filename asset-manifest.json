@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dialfacemaker/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dialfacemaker/static/js/main.04128d75.chunk.js",
+    "main.js.map": "/dialfacemaker/static/js/main.04128d75.chunk.js.map",
+    "runtime-main.js": "/dialfacemaker/static/js/runtime-main.ea69366f.js",
+    "runtime-main.js.map": "/dialfacemaker/static/js/runtime-main.ea69366f.js.map",
+    "static/js/2.7645c0da.chunk.js": "/dialfacemaker/static/js/2.7645c0da.chunk.js",
+    "static/js/2.7645c0da.chunk.js.map": "/dialfacemaker/static/js/2.7645c0da.chunk.js.map",
+    "static/js/3.c0fe6bdf.chunk.js": "/dialfacemaker/static/js/3.c0fe6bdf.chunk.js",
+    "static/js/3.c0fe6bdf.chunk.js.map": "/dialfacemaker/static/js/3.c0fe6bdf.chunk.js.map",
+    "index.html": "/dialfacemaker/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dialfacemaker/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7645c0da.chunk.js.LICENSE.txt": "/dialfacemaker/static/js/2.7645c0da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea69366f.js",
+    "static/js/2.7645c0da.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.04128d75.chunk.js"
+  ]
+}
