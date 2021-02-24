@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/dialfacemaker/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dialfacemaker/static/js/main.04128d75.chunk.js",
-    "main.js.map": "/dialfacemaker/static/js/main.04128d75.chunk.js.map",
-    "runtime-main.js": "/dialfacemaker/static/js/runtime-main.ea69366f.js",
-    "runtime-main.js.map": "/dialfacemaker/static/js/runtime-main.ea69366f.js.map",
-    "static/js/2.7645c0da.chunk.js": "/dialfacemaker/static/js/2.7645c0da.chunk.js",
-    "static/js/2.7645c0da.chunk.js.map": "/dialfacemaker/static/js/2.7645c0da.chunk.js.map",
-    "static/js/3.c0fe6bdf.chunk.js": "/dialfacemaker/static/js/3.c0fe6bdf.chunk.js",
-    "static/js/3.c0fe6bdf.chunk.js.map": "/dialfacemaker/static/js/3.c0fe6bdf.chunk.js.map",
+    "main.css": "/dialfacemaker/static/css/main.48c717fa.chunk.css",
+    "main.js": "/dialfacemaker/static/js/main.525545db.chunk.js",
+    "main.js.map": "/dialfacemaker/static/js/main.525545db.chunk.js.map",
+    "runtime-main.js": "/dialfacemaker/static/js/runtime-main.0ecab4b3.js",
+    "runtime-main.js.map": "/dialfacemaker/static/js/runtime-main.0ecab4b3.js.map",
+    "static/js/2.a4e91372.chunk.js": "/dialfacemaker/static/js/2.a4e91372.chunk.js",
+    "static/js/2.a4e91372.chunk.js.map": "/dialfacemaker/static/js/2.a4e91372.chunk.js.map",
     "index.html": "/dialfacemaker/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/dialfacemaker/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.7645c0da.chunk.js.LICENSE.txt": "/dialfacemaker/static/js/2.7645c0da.chunk.js.LICENSE.txt"
+    "static/css/main.48c717fa.chunk.css.map": "/dialfacemaker/static/css/main.48c717fa.chunk.css.map",
+    "static/js/2.a4e91372.chunk.js.LICENSE.txt": "/dialfacemaker/static/js/2.a4e91372.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea69366f.js",
-    "static/js/2.7645c0da.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.04128d75.chunk.js"
+    "static/js/runtime-main.0ecab4b3.js",
+    "static/js/2.a4e91372.chunk.js",
+    "static/css/main.48c717fa.chunk.css",
+    "static/js/main.525545db.chunk.js"
   ]
 }

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACC,sBACD,CAEA,WACC,YAAa,CACb,YAAa,CACb,gBAAiB,CACjB,iBACD","file":"main.48c717fa.chunk.css","sourcesContent":["body {\r\n\tfont-family: sans-serif;\r\n}\r\n\r\n.container {\r\n\theight: 750px;\r\n\tpadding: 70px;\r\n\tmargin-left: auto;\r\n\tmargin-right: auto;\r\n}\r\n"]}
