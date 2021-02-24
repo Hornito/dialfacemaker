@@ -1,9 +1,16 @@
-import './App.css';
+import React from 'react'
+import Blueprint from 'react-blueprint-svg'
+import Dial from './Dial';
 
 function App() {
+
+  let model = new Dial();
+
   return (
-   <h1>My test App</h1>
-  );
+    <div className="container">
+        <Blueprint model={model}></Blueprint>
+    </div>
+  )
 }
 
-export default App;
+export default App
